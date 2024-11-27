@@ -1,1 +1,1 @@
-# mines22
+# mines.updatedbot.github.io
